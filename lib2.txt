@@ -1,1 +1,3 @@
 this is the second text file
+
+improved and better for version 2
